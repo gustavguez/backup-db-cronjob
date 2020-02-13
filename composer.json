@@ -1,0 +1,14 @@
+{
+    "name": "gustavo/backup-db-cronjob",
+    "description": "DB backup cronjob",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gustavo Rodriguez",
+            "email": "gustavguez@gmail.com"
+        }
+    ],
+    "require": {
+        "ifsnop/mysqldump-php": "^2.8"
+    }
+}
