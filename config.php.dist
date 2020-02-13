@@ -1,1 +1,7 @@
 <?php
+$dumpDirectory = "";
+$backupKey = "";
+$dbHost = "localhost";
+$dbName = "";
+$dbUser = "";
+$dbPassword = "";

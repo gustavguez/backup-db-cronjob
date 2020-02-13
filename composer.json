@@ -8,6 +8,9 @@
             "email": "gustavguez@gmail.com"
         }
     ],
+    "autoload": {
+        "files": ["src/Gustavguez/Backup/BackupDbJob.php"]
+    },
     "require": {
         "ifsnop/mysqldump-php": "^2.8"
     }
