@@ -12,6 +12,7 @@
         "files": ["src/Gustavguez/Backup/BackupDbJob.php"]
     },
     "require": {
-        "ifsnop/mysqldump-php": "^2.8"
+        "ifsnop/mysqldump-php": "^2.8",
+        "phpmailer/phpmailer": "^6.1"
     }
 }

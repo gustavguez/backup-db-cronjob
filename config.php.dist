@@ -5,3 +5,12 @@ $dbHost = "localhost";
 $dbName = "";
 $dbUser = "";
 $dbPassword = "";
+
+$mailHost = "";
+$mailFrom = "";
+$mailFromPassword = "";
+$mailFromName = "";
+$mailTo = "";
+$mailToName = "";
+$mailSubject = "";
+$mailBody = "";
